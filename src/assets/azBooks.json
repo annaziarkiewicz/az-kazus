@@ -1,0 +1,220 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Kazus Podatkowy 1(01)2017",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-01-2019_2.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Kazus Podatkowy 2(02)2017",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Tax-Press_Kazus-Podatkowy_-02-okladka-3d.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Kazus Podatkowy 1(03)2018",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-Podatkowy_03-okladka-3d.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Kazus Podatkowy 2(04)2018",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Tax-Press_Kazus-Podatkowy_04_okladka-3d.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Kazus Podatkowy 3(05)2018",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Tax-Press_Kazus-Podatkowy_05-okladka-3d.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Kazus Podatkowy 1(06)2019",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-01-2019.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Kazus podatkowy 2(07)2019",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Tax-Press-Kazus-Podatkowy-07-okladki.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Kazus Podatkowy 3(08)2019",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-01-2019-okladka3d.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Kazus Podatkowy 4(09)2019",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-09-okl.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Kazus Podatkowy 5(10)2019",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-01-2019_1.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Kazus Podatkowy 6(11)2019",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-11-3d.png",
+      "price": {
+        "value": 30.79,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Kazus Podatkowy 1(12)2020",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-01-2020.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "13",
+      "title": "Kazus Podatkowy 2(13)2020",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-13-2020.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Kazus Podatkowy 3(14)2020",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-14.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Kazus Podatkowy 4(15)2020",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-15-okladka-3d_1.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Kazus Podatkowy 5(16)2020",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-okladka.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Kazus Podatkowy 6(17)2020",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-17.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Kazus Podatkowy 1(18)2021",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-18-2021.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Kazus Podatkowy 2(19)2021",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-19-2021.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Kazus Podatkowy 3(20)2021",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-20.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "21",
+      "title": "Kazus Podatkowy 4(21)2021",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-21-2021.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "22",
+      "title": "Kazus Podatkowy 5(22)2021",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-22-2021.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Kazus Podatkowy 6(23)2021",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-23-2021.png",
+      "price": {
+        "value": 38.43,
+        "currency": "PLN"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Kazus Podatkowy 1(24)2022",
+      "cover": "https://kazuspodatkowy.pl/_default_upload_bucket/Kazus-24.png",
+      "price": {
+        "value": 43.06,
+        "currency": "PLN"
+      }
+    }
+  ]
+}
